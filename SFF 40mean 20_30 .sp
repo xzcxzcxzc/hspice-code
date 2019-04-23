@@ -1,5 +1,5 @@
 
-*dff
+*取40次平均值 测量不同温度的情况
 *.options list node post
 
 
